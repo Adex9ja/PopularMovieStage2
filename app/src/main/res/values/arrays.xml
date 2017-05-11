@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_option">
+        <item>@string/action_popular</item>
+        <item>@string/action_toprated</item>
+        <item>@string/action_favorite</item>
+    </string-array>
+
+    <string-array name="list_value">
+        <item>@string/popular</item>
+        <item>@string/toprated</item>
+        <item>@string/favorite</item>
+    </string-array>
+</resources>
